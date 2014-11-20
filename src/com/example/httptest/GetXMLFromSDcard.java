@@ -10,7 +10,7 @@ import java.io.OutputStream;
 import android.os.Environment;
 import android.util.Log;
 
-public class GetXMLFromSDcard {
+public class GetXMLFromSDcard { 
 	public static InputStream getInputStreamFromSDcard(String fileName) {
 		String path = Environment.getExternalStorageDirectory().toString()
 				+ "/IIS2014/";			
