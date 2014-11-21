@@ -13,6 +13,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.apk
+*.ap_
 
 # =========================
 # Operating System Files
